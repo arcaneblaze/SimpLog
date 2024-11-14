@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpLog", "SimpLog\SimpLog.csproj", "{18BE7737-E91B-48E8-8B50-C518150DF090}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpLog.Test", "SimpLog.Test\SimpLog.Test.csproj", "{F54BFAE5-AC3C-48AB-AE7B-F6F40B00E795}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18BE7737-E91B-48E8-8B50-C518150DF090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18BE7737-E91B-48E8-8B50-C518150DF090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18BE7737-E91B-48E8-8B50-C518150DF090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18BE7737-E91B-48E8-8B50-C518150DF090}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F54BFAE5-AC3C-48AB-AE7B-F6F40B00E795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F54BFAE5-AC3C-48AB-AE7B-F6F40B00E795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F54BFAE5-AC3C-48AB-AE7B-F6F40B00E795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F54BFAE5-AC3C-48AB-AE7B-F6F40B00E795}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
