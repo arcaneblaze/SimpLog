@@ -4,7 +4,7 @@ namespace SimpLog.Test;
 
 class Program
 {
-    private static readonly SimpLog _logger = new SimpLog("LOGOGOGOG");
+    private static readonly SimpLog _logger = new SimpLog("Logs"); // log path
     
     static void Main(string[] args)
     {

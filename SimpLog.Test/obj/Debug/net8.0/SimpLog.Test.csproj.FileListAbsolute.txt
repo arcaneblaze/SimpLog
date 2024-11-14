@@ -16,3 +16,4 @@ D:\C# projects\SimpLog\SimpLog.Test\bin\Debug\net8.0\SimpLog.dll
 D:\C# projects\SimpLog\SimpLog.Test\bin\Debug\net8.0\SimpLog.pdb
 D:\C# projects\SimpLog\SimpLog.Test\obj\Debug\net8.0\SimpLog.Test.csproj.AssemblyReference.cache
 D:\C# projects\SimpLog\SimpLog.Test\obj\Debug\net8.0\SimpLog..CB6F5B00.Up2Date
+D:\C# projects\SimpLog\SimpLog.Test\obj\Debug\net8.0\SimpLog.Test.sourcelink.json
